@@ -40,7 +40,7 @@
             <div class="col-md-6 text-center text-lg-left mb-2 mb-lg-0">
                 <div class="d-inline-flex align-items-center">
                     <a class="text-body pr-3" href="tel:+237657099175">
-                        <i class="fa fa-phone-alt mr-2"> </i>+237 657-099-175
+                        <i class="fa fa-phone-alt mr-2"> </i>+237 655-170-250
                     </a>
                     <span class="text-body">|</span>
                     <a class="text-body px-3" href="mailto:ulrichfedjo@gmail.com"><i
